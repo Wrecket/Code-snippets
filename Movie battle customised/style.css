@@ -1,0 +1,112 @@
+* {
+	color: black;
+}
+
+b {
+	color: white;
+}
+
+hero-body,
+h1.title {
+	text-align: center;
+}
+
+body {
+	height: 1500px;
+}
+
+.tranquil {
+	background-image: url(tranquil.jpg);
+	background-size: cover;
+}
+
+.explode {
+	background-image: url(nuke.jpg);
+	background-size: cover;
+}
+
+article.media {
+	padding: 15px;
+}
+
+.gold {
+	background-color: gold;
+}
+
+.grey {
+	background-color: greenyellow;
+}
+
+.red {
+	background-color: red;
+}
+
+article h1,
+article p,
+article h4 {
+	font-weight: bold;
+	color: black;
+}
+
+.banner {
+	background-color: deepskyblue;
+	opacity: 0.9;
+}
+
+.banner2 {
+	background-color: gold;
+	opacity: 0.9;
+}
+
+section.banner {
+	opacity: 0.9;
+}
+
+.tutorial {
+	width: 600px;
+	text-align: center;
+	margin: auto;
+}
+
+figure.image {
+	display: flex;
+	justify-content: center;
+	background-color: black;
+}
+
+figure .image img {
+	width: 128px;
+}
+
+.notification {
+	margin-top: 20px !important;
+}
+
+.results {
+	max-height: 500px;
+	overflow-y: scroll;
+}
+
+.title .icon {
+	margin-left: 15px;
+}
+
+.hero {
+	margin-bottom: 20px;
+}
+
+.forms {
+	display: flex;
+	justify-content: space-around;
+}
+
+.dropdown-item {
+	display: flex;
+	align-items: center;
+	height: 60px;
+}
+
+.dropdown-item img {
+	height: 50px;
+	margin-right: 10px;
+}
